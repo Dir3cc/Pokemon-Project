@@ -68,5 +68,5 @@ async def feed(ctx):
         await ctx.send(response)
     else:
         await ctx.send("Pokémon'un yok!")
-
+#deneme...
 bot.run(token)
